@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Thales de França</h1>
 <h3 align="center">I'm all about back-end development and into some architecture themes</h3>
 
-- 👨‍💻 All of my projects are available at [@thfranca](https://github.com/thsfranca)
+- 👨‍💻 All of my projects are available at [@thsfranca](https://github.com/thsfranca)
 
 - 📫 How to reach me **ths.france@gmail.com**
 
