@@ -1,16 +1,54 @@
-<h1 align="center">Hello 👋, I'm Thales de França</h1>
-<h3 align="center">I'm all about back-end development and into some architecture themes</h3>
+# 👋 Hi, I'm Thales de França
 
-- 👨‍💻 All of my projects are available at [@thsfranca](https://github.com/thsfranca)
+> _"I'm just a matrix cowboy."_
 
-- 📫 How to reach me **ths.france@gmail.com**
+Senior Software Engineer at [Nubank](https://github.com/nubank)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thsfranca-blue?logo=linkedin)](https://www.linkedin.com/in/thsfranca/)
 
-- 📄 Know about my experiences [Thales de França](https://www.linkedin.com/in/thsfranca/)
+---
 
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
+I'm passionate about building things with Go and exploring new ideas through code. My recent focus is on Go projects—I'm always looking to channel my energy into creative solutions and open source contributions.
 
+- 🖥️ **Profession:** Senior Software Engineer
+- 🏢 **Company:** Nubank
+- 💼 **Email:** thales.franca@nubank.com.br
+- 💡 **Current Passion:** All things Go (Golang)
+- 🛰️ **GitHub since:** 2019
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thsfranca" alt="thsfranca" /></a> </p>
+---
 
+## 🛠️ Top Skills
+
+- Go (Golang)
+- Software Architecture
+- Cloud & DevOps
+- Problem Solving
+- Collaboration & Mentorship
+
+---
+
+## 🌟 Featured Projects
+
+- [go-common](https://github.com/thsfranca/go-common) — Utility Go packages and helpers for common tasks.
+- [mysql-docker](https://github.com/thsfranca/mysql-docker) — Dockerized MySQL setups for rapid development.
+- [study-parser](https://github.com/thsfranca/study-parser) — Experiments in building parsers (private).
+- [fugo](https://github.com/thsfranca/fugo) — Java project for exploring language concepts (private).
+
+---
+
+## 🏄 Fun Facts
+
+- I love tinkering with new technologies and pushing the boundaries of what code can do.
+- Always on the lookout for cool collaborations and open source adventures!
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/thsfranca/) | [GitHub](https://github.com/thsfranca)
+
+---
+
+_Thanks for stopping by!_
