@@ -9,8 +9,6 @@ Senior Software Engineer at [Nubank](https://github.com/nubank)
 
 ## 🚀 About Me
 
-I'm passionate about building things with Go and exploring new ideas through code. My recent focus is on Go projects—I'm always looking to channel my energy into creative solutions and open source contributions.
-
 - 🖥️ **Profession:** Senior Software Engineer
 - 🏢 **Company:** Nubank
 - 💼 **Email:** thales.franca@nubank.com.br
@@ -21,27 +19,10 @@ I'm passionate about building things with Go and exploring new ideas through cod
 
 ## 🛠️ Top Skills
 
-- Go (Golang)
 - Software Architecture
 - Cloud & DevOps
 - Problem Solving
 - Collaboration & Mentorship
-
----
-
-## 🌟 Featured Projects
-
-- [go-common](https://github.com/thsfranca/go-common) — Utility Go packages and helpers for common tasks.
-- [mysql-docker](https://github.com/thsfranca/mysql-docker) — Dockerized MySQL setups for rapid development.
-- [study-parser](https://github.com/thsfranca/study-parser) — Experiments in building parsers (private).
-- [fugo](https://github.com/thsfranca/fugo) — Java project for exploring language concepts (private).
-
----
-
-## 🏄 Fun Facts
-
-- I love tinkering with new technologies and pushing the boundaries of what code can do.
-- Always on the lookout for cool collaborations and open source adventures!
 
 ---
 
