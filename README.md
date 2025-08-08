@@ -12,7 +12,6 @@ Senior Software Engineer at [Nubank](https://github.com/nubank)
 - 🖥️ **Profession:** Senior Software Engineer
 - 🏢 **Company:** Nubank
 - 💼 **Email:** ths.france@gmail.com
-- 💡 **Current Passion:** All things Go (Golang)
 - 🛰️ **GitHub since:** 2019
 
 ---
